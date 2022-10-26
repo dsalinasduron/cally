@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cally/static/css/main.073c9b0a.css",
+    "main.js": "/cally/static/js/main.c6ebbeef.js",
+    "static/js/787.2966793e.chunk.js": "/cally/static/js/787.2966793e.chunk.js",
+    "static/media/logo.svg": "/cally/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cally/index.html",
+    "main.073c9b0a.css.map": "/cally/static/css/main.073c9b0a.css.map",
+    "main.c6ebbeef.js.map": "/cally/static/js/main.c6ebbeef.js.map",
+    "787.2966793e.chunk.js.map": "/cally/static/js/787.2966793e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c6ebbeef.js"
+  ]
+}
